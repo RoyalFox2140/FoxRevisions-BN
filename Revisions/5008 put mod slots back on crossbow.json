@@ -1,0 +1,16 @@
+[
+  {
+    "id": "crossbow",
+    "copy-from": "crossbow",
+    "type": "GUN",
+    "valid_mod_locations": [
+      [ "accessories", 4 ],
+      [ "dampening", 1 ],
+      [ "rail", 1 ],
+      [ "sights", 1 ],
+      [ "sling", 1 ],
+      [ "underbarrel", 1 ],
+      [ "mechanism", 1 ]
+    ]
+  }
+]

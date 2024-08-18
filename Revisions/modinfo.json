@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "FoxRevisions",
+    "name": "Fox's Revisions mod",
+    "authors": [ "RoyalFox" ],
+    "maintainers": [ "RoyalFox" ],
+    "description": "Changes stuff. Check files for which PR's are reverted or changed.",
+    "category": "balance",
+    "dependencies": [ "bn" ]
+  }
+]

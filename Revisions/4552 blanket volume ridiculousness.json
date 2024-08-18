@@ -1,0 +1,32 @@
+[
+  {
+    "id": "sheet",
+    "type": "ARMOR",
+    "copy-from": "sheet",
+    "volume": "5 L"
+  },
+  {
+    "id": "blanket",
+    "type": "ARMOR",
+    "copy-from": "blanket",
+    "volume": "15 L"
+  },
+  {
+    "id": "down_blanket",
+    "type": "ARMOR",
+    "copy-from": "down_blanket",
+    "volume": "31 L"
+  },
+  {
+    "id": "fur_blanket",
+    "type": "ARMOR",
+    "copy-from": "fur_blanke",
+    "volume": "31 L"
+  },
+  {
+    "id": "sleeping_bag",
+    "type": "ARMOR",
+    "copy-from": "sleeping_bag",
+    "volume": "14 L"
+  }
+]
