@@ -24,7 +24,7 @@
     "id": "fur_blanket",
     "type": "ARMOR",
     "name": { "str": "fur blanket" },
-    "copy-from": "fur_blanke",
+    "copy-from": "fur_blanket",
     "volume": "31 L"
   },
   {
