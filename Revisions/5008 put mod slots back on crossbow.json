@@ -1,6 +1,7 @@
 [
   {
     "id": "crossbow",
+    "name": { "str": "crossbow" },
     "copy-from": "crossbow",
     "type": "GUN",
     "valid_mod_locations": [
