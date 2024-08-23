@@ -2,30 +2,35 @@
   {
     "id": "sheet",
     "type": "ARMOR",
+    "name": { "str": "sheet" },
     "copy-from": "sheet",
     "volume": "5 L"
   },
   {
     "id": "blanket",
     "type": "ARMOR",
+    "name": { "str": "blanket" },
     "copy-from": "blanket",
     "volume": "15 L"
   },
   {
     "id": "down_blanket",
     "type": "ARMOR",
+    "name": { "str": "down-filled blanket" },
     "copy-from": "down_blanket",
     "volume": "31 L"
   },
   {
     "id": "fur_blanket",
     "type": "ARMOR",
+    "name": { "str": "fur blanket" },
     "copy-from": "fur_blanke",
     "volume": "31 L"
   },
   {
     "id": "sleeping_bag",
     "type": "ARMOR",
+    "name": { "str": "sleeping bag" },
     "copy-from": "sleeping_bag",
     "volume": "14 L"
   }
